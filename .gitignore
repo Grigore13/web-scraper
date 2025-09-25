@@ -1,0 +1,10 @@
+# Fisiere compilate Python
+
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Folder VENV
+venv/
+env/
