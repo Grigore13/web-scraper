@@ -1,4 +1,4 @@
-#!/Users/grigore/first_scrap/venv/bin/python3.12
+#!/Users/grigore/web-scraper/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
